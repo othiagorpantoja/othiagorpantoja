@@ -107,7 +107,6 @@ Platform Engineering · Platform Architect · SRE · System Design · Well-Archi
 </details>
 
 ---
----
 
 ## Work with me
 - 📬 Email: <thiago.pantoja@easynext.consulting><br/>
