@@ -107,60 +107,6 @@ Platform Engineering · Platform Architect · SRE · System Design · Well-Archi
 </details>
 
 ---
-
-## How I measure impact
-- <b>DORA & SRE:</b> SLO/SLI, MTTR, error budgets.<br/>
-- <b>FinOps:</b> CUR/Athena/Glue, tagging, rightsizing, Savings Plans.
-
----
-
-## GitHub analytics
-
-<div align="center">
-
-  <!-- Badges rápidos -->
-  <a href="https://github.com/thiagorpantoja?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/thiagorpantoja?label=Followers&style=social">
-  </a>
-  <a href="https://github.com/thiagorpantoja?tab=stars">
-    <img alt="Total Stars" src="https://img.shields.io/github/stars/thiagorpantoja?affiliations=OWNER%2CCOLLABORATOR&style=social">
-  </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=thiagorpantoja&style=flat&color=blue">
-
-  <br/><br/>
-
-  <!-- Stats (sem flags problemáticas; tema automático via <picture>) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thiagorpantoja&show_icons=true&hide_border=true&theme=tokyonight">
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiagorpantoja&show_icons=true&hide_border=true&theme=transparent">
-  </picture>
-
-  <!-- Streak -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thiagorpantoja&mode=weekly&hide_border=true&theme=tokyonight&date_format=M%20j%5B,%20Y%5D">
-    <img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=thiagorpantoja&mode=weekly&hide_border=true&theme=transparent&date_format=M%20j%5B,%20Y%5D">
-  </picture>
-
-  <!-- Top Languages (ATIVAR depois de ter repositórios públicos com código)
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorpantoja&layout=compact&langs_count=10&hide_border=true&theme=tokyonight">
-    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorpantoja&layout=compact&langs_count=10&hide_border=true&theme=transparent">
-  </picture>
-  -->
-
-  <br/><br/>
-
-  <!-- Contribution Activity Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thiagorpantoja&hide_border=true&theme=github-compact">
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagorpantoja&hide_border=true&theme=light">
-  </picture>
-
-  <br/>
-  <sub>Tip: se algum card não carregar, é só atualizar a página (rate-limit das APIs públicas).</sub>
-</div>
-
-
 ---
 
 ## Work with me
@@ -172,4 +118,4 @@ Platform Engineering · Platform Architect · SRE · System Design · Well-Archi
 - 🧵 Instagram: <https://www.instagram.com/euthiagorpantoja><br/>
 - 📰 Substack: <https://substack.com/@thiagorpantoja>
 
-<p align="center">✨ “Platform done right multiplies value across every squad.” ✨</p>
+<p align="center"> “Platform done right multiplies value across every squad.” </p>
