@@ -17,8 +17,6 @@
 
 ---
 
-## TL;DR
-
 Principal Solutions Architect (Staff+) at the intersection of <b>business strategy</b> and <b>Platform Engineering</b>.<br/>
 I design <b>multi-account/region</b> architectures across <b>AWS, Azure, GCP, and OCI</b> with <b>Cloud Governance</b>, <b>Security by Design</b>, and <b>FinOps</b> at the core.<br/>
 I standardize the <b>SDLC</b> with <b>IaC</b> (Terraform/CDK/Ansible/CloudFormation), <b>Kubernetes</b> (EKS/AKS/GKE/OKE), and <b>CI/CD</b> — delivering <b>scale, reliability, and cost optimization</b> in complex multi-cloud environments.
