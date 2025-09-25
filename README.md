@@ -1,5 +1,4 @@
-# Write a cleaned README (no bucket/code snippet), English-only, ready to use.
-readme = """<!-- Profile README for github.com/thiagorpantoja | Clean version (no code snippets) -->
+<!-- Profile README for github.com/thiagorpantoja | Clean version (no code snippets) -->
 
 <h1 align="center">Hi, I'm Thiago Pantoja — Principal Solutions Architect (Staff+)</h1>
 
@@ -136,9 +135,3 @@ Platform Engineering · Platform Architect · SRE · System Design · Well-Archi
 - 📰 Substack: <https://substack.com/@thiagorpantoja>
 
 <p align="center">✨ “Platform done right multiplies value across every squad.” ✨</p>
-"""
-out = "/mnt/data/README_clean.md"
-with open(out, "w", encoding="utf-8") as f:
-    f.write(readme)
-
-out
