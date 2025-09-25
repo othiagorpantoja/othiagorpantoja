@@ -116,10 +116,53 @@ Platform Engineering · Platform Architect · SRE · System Design · Well-Archi
 
 ## GitHub analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagorpantoja&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorpantoja&layout=compact&langs_count=8" />
-</p>
+<div align="center">
+
+  <!-- Badges rápidos -->
+  <a href="https://github.com/thiagorpantoja?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/thiagorpantoja?label=Followers&style=social">
+  </a>
+  <a href="https://github.com/thiagorpantoja?tab=stars">
+    <img alt="Total Stars" src="https://img.shields.io/github/stars/thiagorpantoja?affiliations=OWNER%2CCOLLABORATOR&style=social">
+  </a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=thiagorpantoja&style=flat&color=blue">
+
+  <br/><br/>
+
+  <!-- Stats card (dark/light automático) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thiagorpantoja&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight">
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiagorpantoja&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
+  </picture>
+
+  <!-- Streak (sequência de contribuições) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thiagorpantoja&mode=weekly&hide_border=true&theme=tokyonight">
+    <img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=thiagorpantoja&mode=weekly&hide_border=true">
+  </picture>
+
+  <!-- Top languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorpantoja&layout=compact&langs_count=10&hide_border=true&theme=tokyonight">
+    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorpantoja&layout=compact&langs_count=10&hide_border=true">
+  </picture>
+
+  <br/><br/>
+
+  <!-- Activity graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thiagorpantoja&hide_border=true&theme=github-compact">
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagorpantoja&hide_border=true">
+  </picture>
+
+  <!-- Troféus (opcional, visual) -->
+  <br/><br/>
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=thiagorpantoja&theme=flat&no-frame=true&row=1&margin-w=10&margin-h=10">
+
+  <br/>
+  <sub>Tip: if any card doesn’t load, it’s usually rate-limit from the public APIs — refresh later.</sub>
+</div>
+
 
 ---
 
