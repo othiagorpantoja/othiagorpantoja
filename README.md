@@ -129,38 +129,35 @@ Platform Engineering · Platform Architect · SRE · System Design · Well-Archi
 
   <br/><br/>
 
-  <!-- Stats card (dark/light automático) -->
+  <!-- Stats (sem flags problemáticas; tema automático via <picture>) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thiagorpantoja&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight">
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiagorpantoja&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thiagorpantoja&show_icons=true&hide_border=true&theme=tokyonight">
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiagorpantoja&show_icons=true&hide_border=true&theme=transparent">
   </picture>
 
-  <!-- Streak (sequência de contribuições) -->
+  <!-- Streak -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thiagorpantoja&mode=weekly&hide_border=true&theme=tokyonight">
-    <img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=thiagorpantoja&mode=weekly&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thiagorpantoja&mode=weekly&hide_border=true&theme=tokyonight&date_format=M%20j%5B,%20Y%5D">
+    <img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=thiagorpantoja&mode=weekly&hide_border=true&theme=transparent&date_format=M%20j%5B,%20Y%5D">
   </picture>
 
-  <!-- Top languages -->
+  <!-- Top Languages (ATIVAR depois de ter repositórios públicos com código)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorpantoja&layout=compact&langs_count=10&hide_border=true&theme=tokyonight">
-    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorpantoja&layout=compact&langs_count=10&hide_border=true">
+    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorpantoja&layout=compact&langs_count=10&hide_border=true&theme=transparent">
   </picture>
+  -->
 
   <br/><br/>
 
-  <!-- Activity graph -->
+  <!-- Contribution Activity Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thiagorpantoja&hide_border=true&theme=github-compact">
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagorpantoja&hide_border=true">
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagorpantoja&hide_border=true&theme=light">
   </picture>
 
-  <!-- Troféus (opcional, visual) -->
-  <br/><br/>
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=thiagorpantoja&theme=flat&no-frame=true&row=1&margin-w=10&margin-h=10">
-
   <br/>
-  <sub>Tip: if any card doesn’t load, it’s usually rate-limit from the public APIs — refresh later.</sub>
+  <sub>Tip: se algum card não carregar, é só atualizar a página (rate-limit das APIs públicas).</sub>
 </div>
 
 
